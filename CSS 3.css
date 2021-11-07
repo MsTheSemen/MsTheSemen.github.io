@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Oswald&display=swap');
+p{
+    font-size: 100px;
+    padding: 0px 265px;
+    color: yellowgreen;
+    font-family: 'Fruktur', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+#semen50 {
+    font-size: 100px;
+    padding: 0px 390px;
+    color: blue;
+    font-family: 'Fruktur', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+#sem{
+    font-size: 100px;
+    padding: 0px 650px;
+    color: white;
+}
+#seme{
+    font-size: 100px;
+    padding: 0px 650px;
+    color: white;
+
+}
+#semen16{
+    font-size: 100px;
+    padding: 0px 600px;
+    color: white;
+}
+#msthesemen{
+    font-size: 100px;
+    padding: 0px 500px;
+    color: white;
+}
+a{
+    padding: 0px 630px;
+}
+#semen1{
+    background-color: red;
+}
+
+#semen2{
+    background-color: orange;
+}
+
+#semen3{
+    background-color: yellow;
+}
+
+#semen4{
+    background-color: green;
+}
+
+#semen5{
+    background-color: blueviolet;
+}
+
+#semen6{
+    background-color: blue;
+}
+
+#semen7
+{
+    background-color: purple;
+}

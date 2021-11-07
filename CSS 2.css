@@ -1,0 +1,15 @@
+p{
+    color: #000000;
+    font-size: 120px;
+    margin:200px ;
+    
+} 
+div{
+    width: 100%;
+}
+a{
+    font-size: 60px;
+    color: red;
+    margin: 520px;
+    text-decoration: none;
+}
